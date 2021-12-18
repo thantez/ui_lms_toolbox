@@ -21,6 +21,7 @@ then start it with this parameters:
 ```
 
 `group id` is ID of class that can be seen in the link of class:
+
 ![group id example](https://github.com/thantez/ui_lms_toolbox/blob/main/group_id.png?raw=true)
 
 Currently it works just on UNIX systems.
